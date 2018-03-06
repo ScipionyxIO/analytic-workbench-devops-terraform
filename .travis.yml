@@ -1,3 +1,5 @@
+language: nix
+
 sudo: false
 
 notifications:
